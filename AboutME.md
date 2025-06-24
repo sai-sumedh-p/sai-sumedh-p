@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sai-sumedh-p www.linkedin.com/in/sai-sumedh-pedarla
-- 👀 I’m interested in fullstack developing,Coding and Robotics(Farming)
+- 👀 I’m interested in fullstack developing,Coding and Robotics
 - 🌱 I’m currently learning PYTHON,JAVA,JAVAscript,C,C++,HTML,CSS
 - 💞 I’m looking to collaborate on web,app development and ROBOTICS
-- 📫 How to reach me www.linkedin.com/in/sai-sumedh-pedarla  or leave a mail at saisumedhpedarla@gmail.com
+- 📫 Reach me at www.linkedin.com/in/sai-sumedh-pedarla  or leave a mail at saisumedhpedarla@gmail.com
 - 
 
 
